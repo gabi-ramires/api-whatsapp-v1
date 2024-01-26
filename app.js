@@ -17,7 +17,7 @@ const server = http.createServer(app);
 const io = socketIO(server);
 
 app.use(express.json());
-app.use(express.urlencoded({
+app.use(express.urlencoded({ 
   extended: true
 }));
 
