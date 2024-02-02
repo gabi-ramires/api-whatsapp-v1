@@ -1,3 +1,2 @@
-2024/02/02-13:40:04.584 19bcb Reusing MANIFEST /opt/lampp/htdocs/sites/api-whatsapp-v1/.wwebjs_auth/session/Default/Session Storage/MANIFEST-000001
-2024/02/02-13:40:04.585 19bcb Recovering log #3
-2024/02/02-13:40:04.585 19bcb Reusing old log /opt/lampp/htdocs/sites/api-whatsapp-v1/.wwebjs_auth/session/Default/Session Storage/000003.log 
+2024/02/02-14:14:30.354 42959 Creating DB /opt/lampp/htdocs/sites/api-whatsapp-v1/.wwebjs_auth/session/Default/Session Storage since it was missing.
+2024/02/02-14:14:30.359 42959 Reusing MANIFEST /opt/lampp/htdocs/sites/api-whatsapp-v1/.wwebjs_auth/session/Default/Session Storage/MANIFEST-000001

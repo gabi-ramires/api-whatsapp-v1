@@ -1,3 +1,2 @@
-2024/02/02-13:40:04.011 19b8e Reusing MANIFEST /opt/lampp/htdocs/sites/api-whatsapp-v1/.wwebjs_auth/session/Default/Platform Notifications/MANIFEST-000001
-2024/02/02-13:40:04.011 19b8e Recovering log #3
-2024/02/02-13:40:04.011 19b8e Reusing old log /opt/lampp/htdocs/sites/api-whatsapp-v1/.wwebjs_auth/session/Default/Platform Notifications/000003.log 
+2024/02/02-14:14:54.651 4295c Creating DB /opt/lampp/htdocs/sites/api-whatsapp-v1/.wwebjs_auth/session/Default/Platform Notifications since it was missing.
+2024/02/02-14:14:54.655 4295c Reusing MANIFEST /opt/lampp/htdocs/sites/api-whatsapp-v1/.wwebjs_auth/session/Default/Platform Notifications/MANIFEST-000001

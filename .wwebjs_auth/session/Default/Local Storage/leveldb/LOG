@@ -1,3 +1,2 @@
-2024/02/02-13:40:04.011 19b8d Reusing MANIFEST /opt/lampp/htdocs/sites/api-whatsapp-v1/.wwebjs_auth/session/Default/Local Storage/leveldb/MANIFEST-000001
-2024/02/02-13:40:04.011 19b8d Recovering log #3
-2024/02/02-13:40:04.012 19b8d Reusing old log /opt/lampp/htdocs/sites/api-whatsapp-v1/.wwebjs_auth/session/Default/Local Storage/leveldb/000003.log 
+2024/02/02-14:14:29.883 42959 Creating DB /opt/lampp/htdocs/sites/api-whatsapp-v1/.wwebjs_auth/session/Default/Local Storage/leveldb since it was missing.
+2024/02/02-14:14:29.887 42959 Reusing MANIFEST /opt/lampp/htdocs/sites/api-whatsapp-v1/.wwebjs_auth/session/Default/Local Storage/leveldb/MANIFEST-000001
