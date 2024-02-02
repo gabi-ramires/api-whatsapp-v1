@@ -138,3 +138,14 @@
 2024/02/02-14:14:55.943 4295f Generated table #41@1: 21935 keys, 1024610 bytes
 2024/02/02-14:14:55.943 4295f Compacted 1@1 + 1@2 files => 1024610 bytes
 2024/02/02-14:14:55.944 4295f compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/02-14:15:38.788 42b3c Level-0 table #43: started
+2024/02/02-14:15:38.806 42b3c Level-0 table #43: 1019485 bytes OK
+2024/02/02-14:15:38.808 42b3c Delete type=2 #40
+2024/02/02-14:15:38.808 42b3c Delete type=0 #39
+2024/02/02-14:15:38.808 42b3c Delete type=2 #38
+2024/02/02-14:15:53.030 42b38 Compacting 1@1 + 1@2 files
+2024/02/02-14:15:53.074 42b38 Generated table #44@1: 30188 keys, 1341884 bytes
+2024/02/02-14:15:53.074 42b38 Compacted 1@1 + 1@2 files => 1341884 bytes
+2024/02/02-14:15:53.075 42b38 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/02-14:15:53.076 42b38 Delete type=2 #41
+2024/02/02-14:15:53.076 42b38 Delete type=2 #43
