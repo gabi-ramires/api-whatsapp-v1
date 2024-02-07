@@ -32,6 +32,11 @@ app.use(fileUpload({
   debug: false
 }));
 
+// Rota para verificação de integridade
+app.get('/healthz', (req, res) => {
+  res.status(200).send('OK');
+});
+
 app.get('/', (req, res) => {
   res.sendFile('index.html', {
     root: __dirname
